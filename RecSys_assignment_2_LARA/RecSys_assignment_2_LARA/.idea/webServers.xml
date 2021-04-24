@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cd89ab82-a437-466e-8dcd-b18767d9ee26" name="wave_gpu">
+        <fileTransfer rootFolder="/home/81076983" accessType="SFTP" host="202.115.63.32" port="6666" sshConfigId="0328bdc5-b85c-47b3-878d-1aa1ff076580" sshConfig="81076983@202.115.63.32:6666 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
