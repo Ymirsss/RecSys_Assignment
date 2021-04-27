@@ -1,4 +1,4 @@
-#RecSys_assignment_2_LARA 龙欣_2020223040019
+RecSys_assignment_2_LARA 龙欣_2020223040029
 
 
 运行：python model.py
